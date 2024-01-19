@@ -1,5 +1,7 @@
 "use client"
 
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 import type { Metadata } from 'next'
 import { Mukta } from 'next/font/google'
 import './globals.css'
